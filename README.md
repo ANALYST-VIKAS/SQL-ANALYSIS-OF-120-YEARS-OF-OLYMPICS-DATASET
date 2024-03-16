@@ -6,7 +6,7 @@ I conducted a comprehensive case study on a dataset that contained information a
 
 - **Dataset Source:** [Kaggle - 120 Years of Olympic History (Athletes and Results)](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 - **Tables:**
-  - `olympics_history`: Individual athlete information in Olympic events.
+  - `athlete_events`: Individual athlete information in Olympic events.
   - `noc_regions`: National Olympics participant and their regions.
 
 ## Dataset Overview
