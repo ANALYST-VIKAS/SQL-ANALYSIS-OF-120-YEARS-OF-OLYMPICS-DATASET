@@ -1,6 +1,6 @@
 # Case Study on 120 Years of Olympics Data
 
-I conducted a comprehensive case study on a dataset that contained information about all Olympic games played from Athens 1896 to Rio 2016. The dataset includes two main tables: `olympics_history` and `noc_regions`.
+I conducted a comprehensive case study on a dataset that contained information about all Olympic games played from Athens 1896 to Rio 2016. The dataset includes two main tables: `athlete_events` and `noc_regions`.
 
 ## Dataset Information
 
